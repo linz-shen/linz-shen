@@ -121,5 +121,5 @@ My background is my differentiator: a history in English education and fine arts
 
 <br><br>
 <a href="https://github.com/linz-shen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=linz-shen&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linz-shen&layout=compact&theme=dracula&hide_border=true&count_private=true" />
 </a>
